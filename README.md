@@ -26,7 +26,7 @@ The corpus consists of two types of file, the one with ID and the other is RAW. 
 - Andry Luthfi 
 
 ### Page
-For publication and more details about this work, please visit http://bahasa.cs.ui.ac.id/treebank/
+For more details about this work, please visit http://bahasa.cs.ui.ac.id/treebank/corpus
 
 ### License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
